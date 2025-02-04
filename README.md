@@ -21,7 +21,7 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 ---
 
 ## 🚀 GitHub Stats:
-![GitHub Activity](https://img.shields.io/github/commit-activity/w/henoshan/henoshan?style=for-the-badge)
+![GitHub Activity](https://img.shields.io/github/commit-activity/m/henoshan/henoshan?style=for-the-badge)
 ![Followers Badge](https://img.shields.io/github/followers/henoshan?style=for-the-badge&logo=github)
 ![Stars Badge](https://img.shields.io/github/stars/henoshan?style=for-the-badge&logo=github)
 ![Repo Count Badge](https://img.shields.io/github/repo-size/henoshan?style=for-the-badge)
