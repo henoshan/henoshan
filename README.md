@@ -29,8 +29,8 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 ---
 
 ## 📊 Other Stats:
-![GitHub Activity](https://img.shields.io/github/commit-activity/w/henoshan?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/henoshan?style=for-the-badge)
+![GitHub Activity](https://img.shields.io/github/commit-activity/w/henoshan/henoshan?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/henoshan/henoshan?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=henoshan&style=for-the-badge)
 
 ---
