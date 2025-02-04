@@ -14,9 +14,8 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 ## 🛠️ Tech Stack:
 - **Programming:** Python, C++, JavaScript, MATLAB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
-- **Embedded Systems:** Arduino, Raspberry Pi, ESP32, STM32, RoboDK
-- **Web Development:** React, Node.js, Flask, MongoDB
-- **Tools:** Git, Docker, Linux, Jupyter Notebook
+- **Embedded Systems:** Arduino, RoboDK, LabView
+- **Tools:** Git, Linux, Colab, Kaggle, Jupyter Notebook
 
 ---
 
