@@ -35,6 +35,7 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 ---
 
 ## 📌 Pinned Projects:
+[![LangChain-Dev-Kit](https://github-readme-stats.vercel.app/api/pin/?username=henoshan&repo=Timeseries-Sticker-Sales-Forecasting&theme=dark)](https://github.com/henoshan/Timeseries-Sticker-Sales-Forecasting)
 [![LangChain-Dev-Kit](https://github-readme-stats.vercel.app/api/pin/?username=henoshan&repo=LangChain-Dev-Kit-1.0&theme=dark)](https://github.com/henoshan/LangChain-Dev-Kit-1.0)
 [![Maze Solver](https://github-readme-stats.vercel.app/api/pin/?username=henoshan&repo=Maze_Robot_Challenge&theme=dark)](https://github.com/henoshan/Maze_Robot_Challenge)
 
