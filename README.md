@@ -39,13 +39,5 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 [![Maze Solver](https://github-readme-stats.vercel.app/api/pin/?username=henoshan&repo=Maze-Solver-Challenge-2024&theme=dark)](https://github.com/henoshan/Maze-Solver-Challenge-2024)
 
 ---
-
-## 🎯 Current Focus:
-🔹 **Developing a multimodal AI-powered robot for Human-Robot Interaction (HRI)**  
-🔹 **Enhancing multimodal fusion algorithms using Generative AI**  
-🔹 **Building AI-driven fashion design platform - [StyleForge.ai](https://github.com/HydraZone/StyleForge.ai)**  
-🔹 **Exploring the Lava model for multimodal AI development**  
-
----
   
 **💡 "Innovate, Automate, and Elevate!" 🚀**
