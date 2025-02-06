@@ -47,10 +47,5 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 🔹 **Exploring the Lava model for multimodal AI development**  
 
 ---
-
-### 🎵 Fun Fact:
-I love coding while listening to **lofi beats** 🎧 and exploring **new AI innovations** 🤖.
-
----
   
 **💡 "Innovate, Automate, and Elevate!" 🚀**
