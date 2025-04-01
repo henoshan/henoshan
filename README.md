@@ -39,7 +39,7 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 ### 🛠 Embedded Systems & IoT  
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)  
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![PlatformIO](https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white)](https://platformio.org/)  
 
 ### 🤖 Robotics & Automation  
 
