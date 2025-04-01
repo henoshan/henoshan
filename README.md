@@ -49,9 +49,6 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB81C?style=for-the-badge&logo=nationalinstruments&logoColor=white)](https://www.ni.com/en-us/shop/labview.html) [![Simulink](https://img.shields.io/badge/Simulink-004C97?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 
-- **Programming:** Python, C++, JavaScript, MATLAB
-- **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
-- **Embedded Systems:** Arduino, RoboDK, LabView
 - **Tools:** Git, Linux, Colab, Kaggle, Jupyter Notebook
 
 ---
