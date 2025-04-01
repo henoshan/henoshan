@@ -23,8 +23,7 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 ### 🔥 Large Language Models (LLMs)  
 
-[![Llama](https://img.shields.io/badge/Llama-0056D2?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) [![Lava](https://img.shields.io/badge/Lava-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi41MiAyIDIgNi41MiAyIDEyczQuNTIgMTAgMTAgMTAgMTAtNC41MiAxMC0xMFMxNy40OCAyIDEyIDJ6bTAgMTcuMjFjLTQuIDI2IDAuODMtNC4xNyAwLTQuMTcgNCAwIDQuOTkgMy4yMiA1LjU2IDQuMTctNS41NiA1LjU2LTIuMTQgMCAuMDEtNC4xNyAwLTQuMTd6IiBmaWxsPSIjRkYwMDAwIi8+PC9zdmc+)  
-](https://huggingface.co/StateSpork/Lava) [![Mistral](https://img.shields.io/badge/Mistral-FFB000?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai/)
+[![Llama](https://img.shields.io/badge/Llama-0056D2?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) [![Lava](https://img.shields.io/badge/Lava-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi41MiAyIDIgNi41MiAyIDEyczQuNTIgMTAgMTAgMTAgMTAtNC41MiAxMC0xMFMxNy40OCAyIDEyIDJ6bTAgMTcuMjFjLTQuIDI2IDAuODMtNC4xNyAwLTQuMTcgNCAwIDQuOTkgMy4yMiA1LjU2IDQuMTctNS41NiA1LjU2LTIuMTQgMCAuMDEtNC4xNyAwLTQuMTd6IiBmaWxsPSIjRkYwMDAwIi8+PC9zdmc+)](https://huggingface.co/StateSpork/Lava) [![Mistral](https://img.shields.io/badge/Mistral-FFB000?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai/)
 
 - **Programming:** Python, C++, JavaScript, MATLAB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
