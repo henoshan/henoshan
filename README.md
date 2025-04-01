@@ -33,6 +33,10 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 [![Prophet](https://img.shields.io/badge/Prophet-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)
 
+### 🚀 AI Deployment & MLOps  
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 - **Programming:** Python, C++, JavaScript, MATLAB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
 - **Embedded Systems:** Arduino, RoboDK, LabView
