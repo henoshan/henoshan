@@ -37,6 +37,18 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
+### 🛠 Embedded Systems & IoT  
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)  
+
+### 🤖 Robotics & Automation  
+
+[![RoboDK](https://img.shields.io/badge/RoboDK-1C7C5A?style=for-the-badge&logo=robot&logoColor=white)](https://robodk.com/)  
+
+### 🧰 System Design & Automation  
+
+[![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB81C?style=for-the-badge&logo=nationalinstruments&logoColor=white)](https://www.ni.com/en-us/shop/labview.html)  
+
 - **Programming:** Python, C++, JavaScript, MATLAB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
 - **Embedded Systems:** Arduino, RoboDK, LabView
