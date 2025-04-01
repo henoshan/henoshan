@@ -25,6 +25,14 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 [![Llama](https://img.shields.io/badge/Llama-0056D2?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) [![LLaVA](https://img.shields.io/badge/LLaVA-FF4500?style=for-the-badge&logo=vision&logoColor=white)](https://llava-vl.github.io/) [![Mistral](https://img.shields.io/badge/Mistral-FFB000?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai/)
 
+### 🎨 Generative AI Models  
+
+[![DALL·E](https://img.shields.io/badge/DALL·E-008080?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/dall-e/) [![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF5722?style=for-the-badge&logo=stabilityai&logoColor=white)](https://stability.ai/) [![DeepFloyd IF](https://img.shields.io/badge/DeepFloyd%20IF-009688?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/DeepFloyd) [![StyleGAN](https://img.shields.io/badge/StyleGAN-673AB7?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVlabs/stylegan)  
+
+### ⏳ Time Series Models  
+
+[![Prophet](https://img.shields.io/badge/Prophet-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)
+
 - **Programming:** Python, C++, JavaScript, MATLAB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
 - **Embedded Systems:** Arduino, RoboDK, LabView
