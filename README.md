@@ -17,6 +17,10 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 
+### 🤖 Machine Learning Frameworks  
+
+[![LangChain](https://img.shields.io/badge/LangChain-00A3E0?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDA00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+
 
 - **Programming:** Python, C++, JavaScript, MATLAB
 - **AI/ML:** TensorFlow, PyTorch, OpenCV, LangChain
