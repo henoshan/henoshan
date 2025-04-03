@@ -31,7 +31,7 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 ### ⏳ Time Series Models  
 
-[![Prophet](https://img.shields.io/badge/Prophet-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)
+[![Prophet](https://img.shields.io/badge/Prophet-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/) [![XGBoost](https://img.shields.io/badge/XGBoost-EB5B0F?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
 
 ### 🚀 AI Deployment & MLOps  
 
