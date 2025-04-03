@@ -23,7 +23,7 @@ I'm an engineering student passionate about **Artificial Intelligence**, **Robot
 
 ### 🔥 Large Language Models (LLMs)  
 
-[![Llama](https://img.shields.io/badge/Llama-0056D2?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) [![LLaVA](https://img.shields.io/badge/LLaVA-FF4500?style=for-the-badge&logo=vision&logoColor=white)](https://llava-vl.github.io/) [![Mistral](https://img.shields.io/badge/Mistral-FFB000?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai/)
+[![Llama](https://img.shields.io/badge/Llama-0056D2?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) [![LLaVA](https://img.shields.io/badge/LLaVA-FF4500?style=for-the-badge&logo=vision&logoColor=white)](https://llava-vl.github.io/) [![Mistral](https://img.shields.io/badge/Mistral-FFB000?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai/) [![DeciLM](https://img.shields.io/badge/DeciLM-0A74DA?style=for-the-badge&logo=deci&logoColor=white)](https://www.deci.ai/)
 
 ### 🎨 Generative AI Models  
 
