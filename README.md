@@ -1,6 +1,6 @@
 # Hello, I'm Henoshan 👋 | AI & Robotics Enthusiast 🤖  
 
-I'm an engineering student passionate about **Artificial Intelligence**, **Robotics**, and **Embedded Systems**. I love working on **AI-powered multimodal systems**, **robotics automation**, and **generative AI applications**.
+An final-year engineering student passionate about **Artificial Intelligence**, **Robotics**, and **Embedded Systems**. I love working on **AI-powered multimodal systems**, **robotics automation**, and **generative AI applications**.
 
 ---
 
