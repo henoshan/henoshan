@@ -27,7 +27,7 @@ An final-year engineering undergraduate from University of Moratuwa passionate a
 
 ### 🎨 Generative AI Models  
 
-[![DALL·E](https://img.shields.io/badge/DALL·E-008080?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/dall-e/) [![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF5722?style=for-the-badge&logo=stabilityai&logoColor=white)](https://stability.ai/) [![DeepFloyd IF](https://img.shields.io/badge/DeepFloyd%20IF-009688?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/DeepFloyd) [![StyleGAN](https://img.shields.io/badge/StyleGAN-673AB7?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVlabs/stylegan)  
+[![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF5722?style=for-the-badge&logo=stabilityai&logoColor=white)](https://stability.ai/)  
 
 ### ⏳ Time Series Models  
 
