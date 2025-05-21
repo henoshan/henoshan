@@ -33,7 +33,7 @@ An final-year engineering undergraduate from University of Moratuwa passionate a
 
 [![Prophet](https://img.shields.io/badge/Prophet-1E90FF?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/) [![XGBoost](https://img.shields.io/badge/XGBoost-EB5B0F?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
 
-### 🚀 AI Deployment & MLOps  
+### 🚀 Front-End Frameworks  
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
