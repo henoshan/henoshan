@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=1F75FE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Henoshan+%F0%9F%91%8B;AI+%26+Robotics+Enthusiast+%F0%9F%A4%96;Engineering+Undergraduate+at+UoM+%F0%9F%8E%93;Generative+AI+Explorer+%F0%9F%94%8D;Designing+Multimodal+Service+Robots+%F0%9F%A4%96%F0%9F%97%A3%EF%B8%8F%F0%9F%91%80;Seeking+AI%2FML+Engineering+Roles+%F0%9F%9A%80;Let%27s+Build+the+Future+Together+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
