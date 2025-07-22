@@ -5,7 +5,7 @@
 # Henoshan Athimoolanathan
 ## AI, ML & Robotics Enthusiast 🤖  
 
-An final-year engineering undergraduate from University of Moratuwa passionate about **Artificial Intelligence**, **Robotics**, and **Embedded Systems**. I love working on **AI-powered multimodal systems**, **robotics automation**, and **generative AI applications**.
+An Engineering undergraduate from University of Moratuwa passionate about **Artificial Intelligence**, **Machine Learning**, **Robotics**, and **Embedded Systems**. I love working on **AI-powered multimodal systems**, **robotics automation**, and **generative AI applications**.
 
 ---
 
