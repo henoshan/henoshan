@@ -39,7 +39,7 @@
 | **Languages** | `Python` · `HTML` · `JavaScript` · `Java` |
 | **Databases** | `SQL` · `Snowflake` · `Neo4j` · `FAISS` |
 | **Cloud** | `Google Cloud` · `Azure` |
-| **Machine Learning & AI** | `Scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `OpenCV` |
+| **Machine Learning & AI** | `PyTorch` · `Scikit-learn` · `Scikit-learn` · `TensorFlow` · `XGBoost` · `OpenCV` |
 | **LLM / GenAI** | `OpenAI` · `Llama` · `Mistral` · `Transformers` · `LangChain` · `Hugging Face` · `LLaVA` |
 | **Forecasting** | `Prophet` · `Feature Engineering` · `Backtesting` |
 | **Productivity & Deployment** | `Streamlit` · `React` · `Git` · `Linux` · `Jupyter` · `Colab` |
