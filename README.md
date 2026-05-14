@@ -21,6 +21,11 @@
   <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
+<p>
+  <a href="https://henoshan.github.io">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-henoshan.github.io-22C55E?style=for-the-badge&labelColor=111827" alt="Visit Portfolio" />
+  </a>
+</p>
 
 <p><em>Turning complex data into measurable business impact through machine learning, experimentation, and intelligent systems.</em></p>
 
@@ -45,7 +50,7 @@
 | **Languages** | `Python` · `HTML` · `JavaScript` · `Java` |
 | **Databases** | `SQL` · `Snowflake` · `Neo4j` · `FAISS` |
 | **Cloud** | `Google Cloud` · `Azure` |
-| **Machine Learning & AI** | `Scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `OpenCV` |
+| **Machine Learning & AI** | `PyTorch` · `Scikit-learn` · `Scikit-learn` · `TensorFlow` · `XGBoost` · `OpenCV` |
 | **LLM / GenAI** | `OpenAI` · `Llama` · `Mistral` · `Transformers` · `LangChain` · `Hugging Face` · `LLaVA` |
 | **Forecasting** | `Prophet` · `Feature Engineering` · `Backtesting` |
 | **Productivity & Deployment** | `Streamlit` · `React` · `Git` · `Linux` · `Jupyter` · `Colab` |
