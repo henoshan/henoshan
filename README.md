@@ -1,7 +1,7 @@
 <div align="center">
 
-# Henoshan Athimoolanathan
-### Data Scientist, AI/ML Engineer & Researcher
+# ✨ Henoshan Athimoolanathan
+### Data Scientist | AI/ML Engineer | Applied AI Researcher
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=760&lines=Building+data-driven+products+with+AI;From+raw+data+to+deployable+intelligence;Forecasting+%7C+LLMs+%7C+Robotics+%7C+Research" alt="Typing Banner" />
 
@@ -20,7 +20,7 @@
 ## 🧭 Professional Snapshot
 - 🎓 **Engineering Graduate** — University of Moratuwa
 - 💼 **Current Role:** Data Scientist at **Deep Data Insight Inc.**
-- 🧠 **Focus Areas:** Predictive Modeling, LLM Systems, Time Series Forecasting, Applied AI Research
+- 🧠 **Focus Areas:** LLM Systems, Predictive Modeling, Time Series Forecasting, Applied AI Research
 - ⚙️ **Style:** Research-backed, production-minded, outcome-driven
 
 ---
@@ -31,12 +31,13 @@
 
 | Category | Tools & Technologies |
 |---|---|
-| **Data & Analytics** | `Python` · `Pandas` · `NumPy` · `SQL` · `Seaborn` |
-| **Machine Learning** | `Scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `OpenCV` |
+| **Languages** | `Python` · `HTML` · `JavaScript` · `Java` |
+| **Databases** | `SQL` · `Snowflake` · `Neo4j` · `FAISS` |
+| **Cloud** | `Google Cloud` · `Azure` |
+| **Machine Learning & AI** | `Scikit-learn` · `PyTorch` · `TensorFlow` · `XGBoost` · `OpenCV` |
 | **LLM / GenAI** | `OpenAI` · `Llama` · `Mistral` · `Transformers` · `LangChain` · `Hugging Face` · `LLaVA` |
-| **Forecasting** | `Prophet` · `XGBoost` · `Feature Engineering` · `Backtesting` |
-| **Product & Deployment** | `Streamlit` · `React` · `Git` · `Linux` · `Jupyter` · `Colab` |
-| **Robotics & Embedded AI** | `Arduino` · `PlatformIO` · `RoboDK` · `LabVIEW` · `Simulink` |
+| **Forecasting** | `Prophet` · `Feature Engineering` · `Backtesting` |
+| **Productivity & Deployment** | `Streamlit` · `React` · `Git` · `Linux` · `Jupyter` · `Colab` |
 
 </div>
 
