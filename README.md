@@ -16,7 +16,7 @@
 <p>
   <a href="https://www.linkedin.com/in/henoshan-athimoolanathan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/henoshan"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Henoshan-Athimoolanathan?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Henoshan-Athimoolanathan"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=WKdFkC8AAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://orcid.org/"><img src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
